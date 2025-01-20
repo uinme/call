@@ -1,0 +1,7 @@
+.mvn/
+.settings/
+logs/
+release/
+target/
+.classpath
+.project
